@@ -1,0 +1,58 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+#contenedor {
+	width: 900px;
+	height: 1240px;
+	background: #00ff00;
+	position: absolute;
+	left: 50%;
+	margin-left: -450px;
+}
+
+#header{
+	width: 880px;
+	height: 300px;
+	background: #feee00;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+#cuerpo{
+	width: 880px;
+	height: 600px;
+	background: #bf0411;
+	margin: 10px 10px 10px 10px;
+}
+
+#footer{
+	width: 880px;
+	height: 300px;
+	background: #0000ff;
+	margin: 10px 10px 10px 10px;
+}
+
+.titulo_principal{
+	width: 500px;
+	color: #9c9c9c;
+	font-size: 68px;
+	margin: 0 auto;
+}
+
+.parrafo{
+	color: #f1f1f1;
+	font-size: 16px;
+	font-family: heveltica;
+	text-align: justify;
+	padding: 20px 10px 0 10px;
+}
+
+#cuerpo .parrafo b{
+	color: #f8ff87;
+	font-weight: bold;
+}
+
