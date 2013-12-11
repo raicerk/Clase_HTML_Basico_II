@@ -1,7 +1,5 @@
 Clase HTML Basico II
 ====================
-Pro-Gramadores
-===============
 
 
 Curso de Diseño WEB HTML Basico II
